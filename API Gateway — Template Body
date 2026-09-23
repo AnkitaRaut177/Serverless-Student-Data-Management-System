@@ -1,0 +1,6 @@
+{
+    "studentid": "$input.path('$.studentid')",
+    "name": "$input.path('$.name')",
+    "class": "$input.path('$.class')",
+    "age": "$input.path('$.age')"
+}
